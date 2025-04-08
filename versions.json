@@ -41,7 +41,7 @@
     ],
     "windows": [
         {
-            "image": "Windows Server 2025 <sup>beta</sup>",
+            "image": "Windows Server 2025",
             "label": "`windows-2025`",
             "included_software": "windows-2025",
             "json_url": "https://gist.githubusercontent.com/subir0071/385e39188f4280878bada99250e99db7/raw/win25.json"
