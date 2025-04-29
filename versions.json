@@ -15,19 +15,7 @@
     ],
     "macos": [
         {
-            "image": "macOS 15 Arm64 <sup>beta</sup>",
-            "label": "`macos-15` or `macos-15-xlarge`",
-            "included_software": "macOS-15-arm64",
-            "json_url": "https://gist.githubusercontent.com/subir0071/385e39188f4280878bada99250e99db7/raw/macos-15-arm64.json"
-        },
-        {
             "image": "macOS 15 Arm64",
-            "label": "`macos-15` or `macos-15-xlarge`",
-            "included_software": "macOS-15-arm64",
-            "json_url": "https://gist.githubusercontent.com/subir0071/385e39188f4280878bada99250e99db7/raw/macos-15-arm64.json"
-        },
-        {
-            "image": "macOS 15 Arm64 <sup>beta</sup>",
             "label": "`macos-15` or `macos-15-xlarge`",
             "included_software": "macOS-15-arm64",
             "json_url": "https://gist.githubusercontent.com/subir0071/385e39188f4280878bada99250e99db7/raw/macos-15-arm64.json"
